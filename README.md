@@ -1,322 +1,218 @@
-# NSWA eTime Automator
+# NSWA ShiftSync Terms of Service and Privacy Policy
 
-NSWA eTime Automator is a Chrome extension designed to help authorised NSW Ambulance users complete eTime timesheets more efficiently by reading relevant shift information from approved NSW Ambulance systems and assisting with entry into eTime.
+**Last updated:** 11 April 2026
 
----
-
-# Terms of Service and Privacy Policy
-
-**Last updated:** 3 April 2026
-
-By installing, accessing, subscribing to, or using NSWA eTime Automator, you agree to this Terms of Service and Privacy Policy. If you do not agree, do not install or use the extension.
-
----
+By installing, accessing, subscribing to, or using NSWA ShiftSync, you agree to these Terms of Service and Privacy Policy. If you do not agree, do not install or use the extension.
 
 ## Provider Details
 
 **Provider:** CTT Solutions  
 **Contact Email:** frost.divines.4w@icloud.com  
-**Location:** NSW, Australia
+**Location:** New South Wales, Australia
 
----
+## 1. What NSWA ShiftSync Does
 
-## 1. What the Extension Does
+NSWA ShiftSync has one narrow purpose: helping authorised NSW Ambulance staff complete their own eTime timesheets using information visible in supported NSW Ambulance and NSW Health workforce systems.
 
-NSWA eTime Automator has one narrow purpose: assisting authorised NSW Ambulance users with completing eTime timesheets by reading relevant shift information from approved NSW Ambulance systems and using that information to help populate supported eTime fields.
+The extension may also provide an optional pay estimate as a guide only. Pay estimates are a work in progress and may not be accurate.
 
-All permissions and features are limited to that purpose.
-
----
-
-## 2. Eligibility
+## 2. Eligibility and Authorised Use
 
 You may use the extension only if:
 
-- you are using it in your personal capacity as an individual user
-- you have a valid **NSW Health email address**
-- you are authorised to access the relevant websites, systems, and accounts you use with the extension
-- your use complies with all applicable laws, workplace policies, third-party terms, and this document
+- you are using it for your own personal individual use
+- you have a valid NSW Health email address
+- you are authorised to access the relevant NSW Ambulance and NSW Health systems and accounts
+- your use complies with all applicable laws, workplace rules, security requirements, and third-party terms
 
-The extension is licensed for **personal individual use only**. It is not sold for pooled, shared, multi-user, enterprise, or transferable use unless expressly stated otherwise.
-
-We may refuse, suspend, or terminate access if we reasonably believe you do not meet these requirements.
-
----
+The extension is licensed for individual use only. It is not licensed for shared, pooled, bureau, enterprise, or transferable use unless we expressly agree otherwise.
 
 ## 3. No Affiliation
 
-NSWA eTime Automator is an independent product provided by CTT Solutions.
+NSWA ShiftSync is an independent product provided by CTT Solutions.
 
-It is **not affiliated with, endorsed by, authorised by, sponsored by, or supported by**:
+It is not affiliated with, endorsed by, sponsored by, authorised by, or supported by NSW Ambulance, NSW Health, the New South Wales Government, Google, or any third-party website or service the extension interacts with.
 
-- NSW Ambulance
-- NSW Health
-- the New South Wales Government
-- Google
-- Chrome
-- any operator of any third-party website or service the extension may interact with
-
-Any third-party names, systems, or marks are used only to describe compatibility or intended use.
-
----
+Any third-party names, systems, or trade marks are used only to describe compatibility or intended use.
 
 ## 4. Subscription, Billing, and Trials
 
-### Free Trial
-The extension may include a **6 week free trial** for eligible users. Unless cancelled before the trial ends, the free trial will automatically convert into a paid subscription plan selected by you.
+The extension may offer a free trial and paid subscription plans, including monthly or yearly options.
 
-### Subscription Plans
-The extension may be offered on a **monthly** or **yearly** subscription basis.
+By subscribing, you authorise recurring charges for your selected plan until you cancel. Cancellation stops future renewals, but access may continue until the end of your current paid billing period.
 
-### Automatic Renewal
-By subscribing, you authorise recurring charges for your selected plan. Your subscription will **automatically renew** at the end of each billing period unless you cancel before the next renewal date.
+Payments, subscription management, and trial handling may be processed through third-party providers such as ExtensionPay, Stripe, or related payment service providers. You are responsible for providing accurate billing information.
 
-### Cancellation
-You may cancel your subscription at any time. Cancellation stops future renewals, but you will continue to have access to the extension until the end of your then-current billing period.
-
-### Pricing and Payment Providers
-Prices, billing terms, taxes, and payment methods may be displayed through the relevant checkout or subscription platform. Payments and subscription management may be processed by third-party providers such as **ExtPay**, **Stripe**, or related payment service providers.
-
-You are responsible for providing current, complete, and accurate billing information.
-
-### Failed Payments
-If a payment is declined, reversed, refunded, or otherwise not successfully processed, we may suspend or terminate access to the paid service.
-
----
+If payment fails, is reversed, is refunded, or is otherwise not successfully processed, we may suspend or terminate paid access.
 
 ## 5. Refunds
 
-Except where required by law, subscription fees and other charges are **generally non-refundable**.
+Except where required by law, fees are generally non-refundable.
 
-However, refunds, credits, or other adjustments may be offered **at our discretion on a case-by-case basis**.
+We may choose to offer a refund, credit, or adjustment on a case-by-case basis. Nothing in this document excludes, restricts, or modifies any rights you may have under the Australian Consumer Law or other non-excludable law.
 
-Nothing in this document excludes, restricts, or modifies any rights or remedies you may have under the **Australian Consumer Law** or any other non-excludable law.
+## 6. Licence
 
----
+Subject to these terms, we grant you a limited, revocable, non-exclusive, non-transferable, non-sublicensable licence to install and use the extension for your own personal use.
 
-## 6. Workplace and Authorised Use
+All rights not expressly granted are reserved.
 
-You are solely responsible for ensuring that your use of the extension is:
+## 7. Restrictions
 
-- authorised by your employer or organisation
-- permitted under your workplace rules, policies, and IT or security requirements
-- permitted by the terms governing any website, account, or platform you access
-- lawful in your jurisdiction
-
-You must not use the extension in a way that breaches your employer’s policies, confidentiality obligations, security requirements, or any applicable law.
-
-We are not responsible for any consequences arising from your unauthorised or non-compliant use of the extension.
-
----
-
-## 7. Licence
-
-Subject to this document, we grant you a limited, revocable, non-exclusive, non-transferable, non-sublicensable licence to install and use the extension for your own personal individual use.
-
-This licence does not transfer any ownership rights to you.
-
----
-
-## 8. Restrictions on Use
-
-You must not, and must not allow any other person to:
+You must not:
 
 - share your access with another person
-- use the extension on behalf of others as a bureau, managed service, or team account unless expressly permitted
+- use the extension on behalf of other users unless expressly permitted
 - copy, modify, distribute, sell, resell, lease, or sublicense the extension
-- reverse engineer, decompile, disassemble, or attempt to derive source code except where non-excludable law permits it
-- use the extension for unlawful, deceptive, harmful, or unauthorised purposes
-- interfere with the extension, its billing systems, licence controls, or related security features
+- reverse engineer or attempt to derive source code except where non-excludable law permits it
+- use the extension for unlawful, harmful, deceptive, or unauthorised purposes
+- interfere with subscription, billing, licensing, or security controls
 - use the extension to access systems or data you are not authorised to access
-- remove or alter copyright, branding, or proprietary notices
 
----
+## 8. Third-Party Systems and Availability
 
-## 9. Third-Party Websites and Services
+The extension depends on third-party systems, websites, logins, browser APIs, and page structures, including NSW Ambulance systems, NSW Health systems, and payment providers.
 
-The extension may depend on third-party websites, services, logins, page structures, APIs, payment systems, browser features, or platform rules.
+We do not control those third parties and are not responsible for their availability, security, privacy practices, fees, page changes, access restrictions, or technical issues.
 
-We do not control those third parties and are not responsible for:
+We do not guarantee that the extension will always be available, uninterrupted, error-free, secure, or compatible with every browser version, login flow, or site layout.
 
-- their availability
-- their page layout or technical changes
-- their security or privacy practices
-- their fees or terms
-- interruptions, blocks, or access restrictions imposed by them
+## 9. Accuracy and User Responsibility
 
-If a supported website, browser, login flow, or third-party service changes, the extension may stop working, work differently, or lose functionality.
+The extension is provided as a convenience tool only.
 
----
+You are responsible for reviewing all entries, calculations, outputs, and actions before relying on them or submitting them. This is especially important for any pay estimate, which may be incomplete, inaccurate, or affected by changes in third-party systems, award interpretation, or payroll rules.
 
-## 10. Availability, Updates, and Support
+## 10. Suspension and Termination
 
-We may update, modify, suspend, or discontinue all or part of the extension at any time, with or without notice.
+We may suspend, restrict, or terminate access immediately if:
 
-We do not guarantee that the extension will always be available, uninterrupted, error-free, secure, or compatible with every browser version, website configuration, or user workflow.
+- you breach these terms
+- you are no longer eligible to use the extension
+- payment fails or is reversed
+- we reasonably suspect misuse, fraud, unauthorised access, or security risk
+- continued provision becomes unlawful or impractical
 
-We may provide support, updates, bug fixes, and communications at our discretion. We do not guarantee any particular response time, support level, update frequency, or ongoing compatibility.
+On termination, your right to use the extension ends immediately, except to the extent access continues until the end of a valid prepaid billing period.
 
----
-
-## 11. Intellectual Property
-
-The extension, including its software, design, text, branding, functionality, and related materials, is owned by or licensed to CTT Solutions and is protected by applicable intellectual property laws.
-
-Except for the limited licence granted under this document, all rights are reserved.
-
----
-
-## 12. Disclaimer
+## 11. Disclaimer
 
 To the maximum extent permitted by law, the extension is provided on an **"as is"** and **"as available"** basis.
 
 We do not warrant that:
 
 - the extension will meet your requirements
-- the extension will be uninterrupted, timely, secure, or error-free
-- results produced by the extension will be accurate, complete, or suitable for your circumstances
-- the extension will remain compatible with any particular website or system
+- the extension will always be available or error-free
+- results will be accurate, complete, or suitable for your circumstances
+- the extension will remain compatible with any particular third-party system
 
-You are responsible for checking all outputs, entries, actions, and results before relying on them.
+Nothing in this document excludes any guarantee, warranty, or right that cannot lawfully be excluded.
 
-Nothing in this document excludes any non-excludable guarantees, warranties, or rights under Australian law.
+## 12. Limitation of Liability
 
----
+To the maximum extent permitted by law, CTT Solutions is not liable for any indirect, incidental, special, punitive, exemplary, or consequential loss, including loss of profits, revenue, business opportunity, goodwill, data, productivity, or anticipated savings arising from or in connection with the extension.
 
-## 13. Limitation of Liability
+To the maximum extent permitted by law, our total aggregate liability for any claim arising out of or in connection with the extension or these terms is limited to the amount you paid us for the extension in the 12 months before the event giving rise to the claim.
 
-To the maximum extent permitted by law, CTT Solutions is not liable for any indirect, incidental, special, exemplary, punitive, or consequential loss, or for any loss of profits, revenue, business opportunity, goodwill, data, productivity, or anticipated savings arising out of or in connection with the extension or your use of it.
+This clause does not apply to liability that cannot lawfully be excluded or limited.
 
-To the maximum extent permitted by law, our total aggregate liability for any claim arising out of or in connection with the extension or this document is limited to the amount you paid to us for the extension in the **12 months** before the event giving rise to the claim.
+## 13. Privacy Policy
 
-This clause does not exclude liability that cannot lawfully be excluded or limited.
+### 13.1 Data We May Access or Collect
 
----
+Depending on how you use the extension, NSWA ShiftSync may access or process:
 
-## 14. Suspension and Termination
+- **Personally identifiable information**, such as your NSW Health email address, display name, StaffLink ID, staff identifier, or assignment-linked identifier
+- **Authentication and account information**, such as verified account state, subscription status, paid or trial status, and related account state needed for the extension to operate
+- **Website content** from supported NSW Ambulance and NSW Health systems, such as visible roster details, timesheet fields, shift times, leave types, activity rows, overtime details, crib and meal allowance details, case or incident identifiers, and other visible page content directly relevant to the extension’s single purpose
+- **Financial and payment-related information**, such as subscription status, billing status, and payment state from third-party subscription providers; we do not directly collect or store full payment card numbers
+- **Technical and support data**, such as extension settings, local state, logs, troubleshooting information, and information you voluntarily include in a support or feedback message
 
-We may suspend, restrict, or terminate your access immediately if:
+### 13.2 Data We Do Not Intend to Collect
 
-- you breach this document
-- you are no longer eligible to use the extension
-- your payment fails or is reversed
-- we reasonably suspect misuse, fraud, unauthorised access, security risk, or unlawful conduct
-- continued provision of the extension becomes unlawful or impractical
+The extension is not intended to collect unrelated browsing activity. It is not designed to collect health information, location data, personal communications, or general web history outside the supported workflow pages.
 
-Upon termination, your right to use the extension ends immediately, except to the extent access continues until the end of a prepaid billing period following a valid cancellation by you.
+### 13.3 How Data Is Collected
 
-Sections that by nature should survive termination will survive, including sections relating to payment obligations, intellectual property, disclaimers, liability, privacy, and dispute handling.
+Data is accessed or collected only when:
 
----
+- you open and use supported NSW Ambulance or NSW Health pages with the extension
+- the extension stores settings and local workflow state in Chrome extension storage
+- the extension checks subscription or login state through a third-party provider such as ExtensionPay
+- you voluntarily contact support or send feedback, logs, or email details
 
-## 15. Privacy Policy
+The extension may also read and clear HealthRoster site cookies on your device solely to refresh a stale HealthRoster session during the user-requested workflow.
 
-### What data this extension may access or collect
+### 13.4 How Data Is Used
 
-Depending on how the extension is used, NSWA eTime Automator may access or process the following categories of data:
+We use data only to:
 
-- **Personally identifiable information**, such as an email address, display name, staff identifier, StaffLink ID, or assignment-linked identifier
-- **Authentication or account-related information**, such as login state, verification state, subscription or paid-status information, and other account status information required for the extension to operate
-- **Website content** from authorised NSW Ambulance pages that is necessary for the extension’s timesheet workflow, such as rostered shifts, actual shift times, timesheet fields, incident or case identifiers, meal break or overtime information, and other page content directly relevant to completing eTime
-- **Technical and support information**, such as extension settings, locally stored preferences, operational state, debug logs, and information the user voluntarily includes in support or feedback messages
-
-### How data is collected
-
-This extension collects or accesses data only in the following ways:
-
-- it reads information from supported NSW Ambulance pages that the user opens and uses with the extension
-- it stores limited settings and state locally in the browser using Chrome extension storage
-- it may receive information voluntarily provided by the user, such as when the user sends feedback or support details by email
-
-The extension does not collect unrelated browsing information from websites outside the approved workflow. It is only intended to access the data needed to support the timesheet automation function described in the Chrome Web Store listing and this document.
-
-### How data is used
-
-Data accessed or processed by NSWA eTime Automator is used only to:
-
-- verify that the user is on a supported page
-- confirm account, eligibility, or verification status where applicable
-- read shift and timesheet information from approved NSW Ambulance systems
-- assist with populating eTime timesheet fields
+- verify the user is on a supported page
+- verify extension account or subscription status
+- match visible timesheet and roster data across supported systems
+- assist with completing eTime timesheets
+- optionally generate a pay estimate as a guide
 - save settings and operational state between sessions
-- display run status, troubleshooting information, and debug logs to the user
-- support issue investigation when the user chooses to send feedback or logs
+- display status, logs, and troubleshooting information to the user
+- investigate issues when the user asks for support
 
-The extension does not sell user data. It does not use user data for advertising. It does not use user data for unrelated profiling, data brokering, or tracking.
+We do not sell user data. We do not use user data for advertising, data brokering, or unrelated profiling.
 
-### How data is stored
+### 13.5 How Data Is Shared
 
-The extension may store limited data locally in the user’s browser through Chrome extension storage. This may include login state, verification state, extension settings, UI preferences, and limited run or debug information necessary for operation and troubleshooting.
+We do not sell personal information.
 
-If the extension uses a third-party account, licensing, payment, or support service, limited account-related data may also be processed by that provider according to the provider’s own terms and privacy practices.
+Data may be shared only in limited circumstances:
 
-### How data is shared
+- with service providers needed to operate subscription, billing, account, or support functions, such as ExtensionPay, Stripe, or related providers
+- when you explicitly choose to send support or feedback information
+- when required by law, regulation, legal process, or lawful government request
+- when reasonably necessary to protect the security, integrity, users, or operation of the extension
 
-NSWA eTime Automator does not sell personal information to third parties.
+### 13.6 Data Storage and Retention
 
-Data may be shared only in the following limited circumstances:
+The extension stores limited information locally in browser extension storage, including settings, cached verification state, subscription state, logs, and workflow state.
 
-- when necessary to operate extension features through a service provider used for account, licensing, payment handling, or support
-- when the user explicitly chooses to contact support or send feedback
-- when disclosure is required by law, regulation, legal process, or lawful government request
-- when necessary to protect the security, integrity, or operation of the extension
+Locally stored data may remain until it is cleared by you, removed by the extension, or deleted when the extension is uninstalled.
 
-Other than these limited circumstances, data accessed by the extension is not shared for unrelated commercial purposes.
+Support emails, logs, or feedback you voluntarily send may be retained for a reasonable period to investigate and resolve issues.
 
-### Limited Use disclosure
+Third-party subscription or payment providers may retain account and billing information according to their own terms and privacy policies.
 
-NSWA eTime Automator uses personal or sensitive user data only for the user-facing purpose described in the Chrome Web Store listing and this document: assisting authorised NSW Ambulance users with completing eTime timesheets.
+### 13.7 Security
 
-The extension does not use or transfer user data for advertising, creditworthiness determinations, data brokering, or other unrelated purposes.
+We take reasonable steps to protect data handled by the extension. However, no method of electronic storage, processing, or transmission is completely secure, and absolute security cannot be guaranteed.
 
-### Data retention
+### 13.8 User Choices
 
-Data is kept only for as long as reasonably necessary to operate the extension and provide support.
-
-- locally stored browser data may remain until it is cleared by the user, removed by the extension, or deleted when the extension is uninstalled
-- support emails, logs, or feedback voluntarily sent by the user may be retained for a reasonable period to investigate and resolve issues
-- if a third-party account or subscription provider is used, retention of provider-held account data may also depend on that provider’s policies
-
-### Security
-
-Reasonable steps are taken to protect data handled by the extension. However, no method of storage, transmission, or electronic processing is completely secure, and absolute security cannot be guaranteed.
-
-### User choices
-
-Users can:
+You can:
 
 - stop using the extension at any time
-- remove the extension from Chrome
-- clear stored extension data in the browser
-- avoid sending optional feedback or logs
-- contact the developer regarding privacy questions or support matters at **frost.divines.4w@icloud.com**
+- uninstall the extension
+- clear locally stored extension data in your browser
+- choose not to send optional feedback or logs
+- contact us with privacy or support questions at **frost.divines.4w@icloud.com**
 
-### Children
+### 13.9 Children
 
-This extension is not intended for children.
+The extension is not intended for children.
 
----
+## 14. Changes to These Terms and This Policy
 
-## 16. Changes to This Document
+We may update these Terms of Service and Privacy Policy from time to time. The latest version should be made available at the public URL linked from the Chrome Web Store listing or other official product page.
 
-This Terms of Service and Privacy Policy may be updated from time to time. The most current version should be posted at the public URL linked in the Chrome Web Store listing or GitHub page.
+Your continued use of the extension after an updated version is posted means the updated version applies.
 
-Continued use of the extension after an updated version is posted means the updated version will apply.
+## 15. Governing Law
 
----
-
-## 17. Governing Law
-
-This document is governed by the laws of **New South Wales, Australia**.
+These terms are governed by the laws of New South Wales, Australia.
 
 You submit to the non-exclusive jurisdiction of the courts of New South Wales and the courts of Australia that may hear appeals from them.
 
----
+## 16. Contact
 
-## 18. Contact
-
-For privacy questions, billing questions, support, or other enquiries, contact:
+For privacy, billing, support, or other enquiries, contact:
 
 **CTT Solutions**  
 **Email:** frost.divines.4w@icloud.com  
-**Location:** NSW, Australia
+**Location:** New South Wales, Australia
