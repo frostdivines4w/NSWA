@@ -7,7 +7,7 @@ By installing, accessing, subscribing to, or using NSWA ShiftSync, you agree to 
 ## Provider Details
 
 **Provider:** CTT Solutions  
-**Contact Email:** frost.divines.4w@icloud.com  
+**Contact Email:** shiftsync@outlook.com.au  
 **Location:** New South Wales, Australia
 
 In this document, **ShiftSync** means the NSWA ShiftSync browser extension and its related account, billing, support, analytics, and service-message features.
