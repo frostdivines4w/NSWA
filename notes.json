@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-04T12:00:00+10:00",
+  "messages": [
+    {
+      "id": "2026-09-04-welcome",
+      "title": "Welcome to ShiftSync messages",
+      "date": "2026-09-04",
+      "body": "Important ShiftSync updates will appear here.",
+      "linkLabel": "Learn more",
+      "linkUrl": "https://example.com"
+    }
+  ]
+}
