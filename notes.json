@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T12:00:00+10:00",
+  "updatedAt": "2026-09-04T17:26:02+10:00",
   "messages": [
     {
-      "id": "2026-09-04-welcome",
-      "title": "Welcome to ShiftSync messages",
+      "id": "2026-09-04-v3-3-0-release-notes",
+      "title": "Version 3.3.0 Release Notes:",
       "date": "2026-09-04",
-      "body": "Important ShiftSync updates will appear here."
+      "body": "Numerous features and updates have recently been released, including:\n\n1. Leave form preparation — When completing your eTime fortnight, you may be prompted to prepare a leave form if ShiftSync cannot detect an existing request. Sick leave and annual leave are currently supported.\n\n2. Financial Year Review — You can now automatically download payslips containing overtime meal allowances, which may help when preparing your tax return.\n\n3. On-call support — On-call shift, call-out and extension-of-shift handling is being actively developed and improved.\n\n4. 2026 Paramedic Award — New award rates have been added to ShiftSync’s pay calculations.\n\nIf you’d like to see a feature added or an issue fixed, please submit it through the Feedback section."
     }
   ]
 }
